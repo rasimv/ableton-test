@@ -1,0 +1,5 @@
+marker 0.0 0.0
+marker 1.0 5.0
+end_tempo 10.0
+b2s 0.5
+s2b 6.0
